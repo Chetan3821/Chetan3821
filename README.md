@@ -1,3 +1,4 @@
+theme=radical
 <h1 align="center">Chetan S</h1>
 <h3 align="center">Fullstack Web Developer | App Developer | Photographer  </h3>
 
