@@ -11,9 +11,10 @@
 </p>
 </div>
 
+<center>
 <h3 align="center">Languages and Tools : </h3>
 <table><tr><td valign="top" width="33%">
-
+ </center>
 
 
 <h3 align="center">Frontend</h3>
