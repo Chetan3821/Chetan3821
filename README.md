@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://github.com/Chetan3821">
-    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Chetan3821"/>
+    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Chetan3821&theme=radical"/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Chetan3821&&style=flat-square" align="center" />
 </div>  
