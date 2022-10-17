@@ -12,7 +12,7 @@
 </div>
 
 <h3 align="center">Languages and Tools : </h3>
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 
 
