@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://github.com/Chetan3821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Chetan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chetan04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chetan" height="30" width="40" /></a>
-<a href="https://instagram.com/fozail_ahmed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fozail_ahmed1" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_ichetansoni_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fozail_ahmed1" height="30" width="40" /></a>
 </p>
 </div>
 
