@@ -63,11 +63,11 @@
   <a href="https://github.com/Chetan3821">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chetan3821&show_icons=true&count_private=true&theme=radical" />
   </a>
-  <a href="https://github.com/fozail-ahmed1">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fozail-ahmed1" />
+  <a href="https://github.com/Chetan3821">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan3821" />
   </a>
-  <a href="https://github.com/fozail-ahmed1">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fozail-ahmed1&hide_border=true&layout=compact" />
+  <a href="https://github.com/Chetan3821">
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan3821&hide_border=true&layout=compact&theme=radical" />
   </a>
 </p>  
 <br/>
