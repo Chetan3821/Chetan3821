@@ -5,4 +5,4 @@ Chetan Soni
 - 📫 How to reach me ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan3821&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan3821&layout=compact&theme=radical&height=190px)](https://github.com/Chetan3821/its_Chetan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan3821)](https://github.com/Chetan3821/github-readme-stats)
