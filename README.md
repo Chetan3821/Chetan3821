@@ -60,8 +60,8 @@
 
 ## Github stats
 <p align="center">
-  <a href="https://github.com/fozail-ahmed1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fozail-ahmed1&show_icons=true&count_private=true" />
+  <a href="https://github.com/Chetan3821">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chetan3821&show_icons=true&count_private=true&theme=radical" />
   </a>
   <a href="https://github.com/fozail-ahmed1">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fozail-ahmed1" />
