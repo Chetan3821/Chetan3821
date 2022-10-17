@@ -65,11 +65,10 @@
   </a>
 </p>  
 <br/>
+
 <p align="center">
   <a href="https://github.com/Chetan3821">
-    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" />
-  </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" src="https://github.com/ryo-ma/github-profile-trophy" />
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Chetan3821&&style=flat-square" align="center" />
 </div>  
