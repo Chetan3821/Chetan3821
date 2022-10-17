@@ -13,7 +13,7 @@
 
 <center>
 <h3 align="center">Languages and Tools : </h3>
-<table><tr><td valign="top" width="40%">
+<table><tr><td valign="top" width="33%">
  </center>
 
 
@@ -25,7 +25,7 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>   
 </div>
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="33%">
 
 
 <h3 align="center"> Backend</h3>
@@ -38,7 +38,7 @@
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>    
 </div>
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="34%">
 
 
 <h3 align="center">Tools & Platforms</h3>
