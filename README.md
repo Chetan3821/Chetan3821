@@ -38,7 +38,7 @@
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>    
 </div>
 
-</td><td valign="top" width="34%">
+</td><td valign="top" width="33%">
 
 
 <h3 align="center">Tools & Platforms</h3>
